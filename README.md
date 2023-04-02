@@ -41,19 +41,14 @@
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
 `git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
-- Rename the env file by :
-`mv sample.env .env`
+- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : cd (jese DilMusic) jo name rakhte h
+- ʏᴏᴜ'ᴠᴇ ᴛᴏ ʙᴀsʜ ᴛʜᴇ sᴇᴛᴜᴘ ғɪʟᴇ ʙʏ : bash setup (ɪᴛ'ʟʟ ᴀsᴋ ʏᴏᴜ ᴛᴏ ғɪʟʟ ᴛʜᴇ ᴇɴᴠ ᴛʜᴇʀᴇ)
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+- ɪғ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ɪssᴜᴇs ɪɴ ᴀɴʏ ᴏғ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs, ᴘʟᴇᴀsᴇ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ᴜs
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
