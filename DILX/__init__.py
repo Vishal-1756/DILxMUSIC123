@@ -1,4 +1,4 @@
-from DILX.core.bot import DIL
+from DILX.core.bot import DILXMUSIC
 from DILX.core.dir import dirr
 from DILX.core.git import git
 from DILX.core.userbot import Userbot
