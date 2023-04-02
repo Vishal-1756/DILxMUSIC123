@@ -7,7 +7,7 @@ from config import (AUTO_DOWNLOADS_CLEAR, BANNED_USERS,
                     SOUNCLOUD_IMG_URL, STREAM_IMG_URL,
                     TELEGRAM_AUDIO_URL, TELEGRAM_VIDEO_URL, adminlist)
 from DILX import YouTube, app
-from DILX.core.call import Anon
+from DILX.core.call import DIL
 from DILX.misc import SUDOERS, db
 from DILX.utils.database import (is_active_chat,
                                        is_music_playing, set_loop,
