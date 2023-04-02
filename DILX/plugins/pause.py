@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from config import BANNED_USERS
 from strings import get_command
 from DILX import app
-from DILX.core.call import Anon
+from DILX.core.call import DIL
 from DILX.utils.database import is_music_playing, music_off
 from DILX.utils.decorators import AdminRightsCheck
 
