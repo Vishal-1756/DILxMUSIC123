@@ -20,13 +20,13 @@
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ʙʏ ᴅɪʟ」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheAnonymous2005/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 sᴜᴩᴩᴏʀᴛ [ᴅɪʟ❣️] 」─
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 </p>
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+    ─「🍃 ᴄʀᴇᴅɪᴛs 🍃」─
 </h3>
 
 <p align="center">
@@ -46,8 +46,6 @@
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 <a href="https://github.com/AnonymousR1025"> <img src="https://img.shields.io/badge/Anonymous-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
-<a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
-<a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 <a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-black?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
