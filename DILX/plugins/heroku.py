@@ -21,7 +21,7 @@ from DILX.utils.database import (get_active_chats,
                                        remove_active_chat,
                                        remove_active_video_chat)
 from DILX.utils.decorators.language import language
-from DILX.utils.pastebin import Anonbin
+from DILX.utils.pastebin import DILbin
 
 # Commands
 GETLOG_COMMAND = get_command("GETLOG_COMMAND")
