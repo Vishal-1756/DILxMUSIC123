@@ -153,7 +153,7 @@ async def del_back_playlist(client, CallbackQuery, _):
                     _["admin_10"].format(mention)
                 )
                 try:
-                    return await Anon.stop_stream(chat_id)
+                    return await DIL.stop_stream(chat_id)
                 except:
                     return
         except:
@@ -164,7 +164,7 @@ async def del_back_playlist(client, CallbackQuery, _):
                 await CallbackQuery.message.reply_text(
                     _["admin_10"].format(mention)
                 )
-                return await Anon.stop_stream(chat_id)
+                return await DIL.stop_stream(chat_id)
             except:
                 return
         await CallbackQuery.answer()
@@ -217,7 +217,7 @@ async def del_back_playlist(client, CallbackQuery, _):
             except:
                 return await mystic.edit_text(_["call_9"])
             try:
-                await Anon.skip_stream(
+                await DIL.skip_stream(
                     chat_id, file_path, video=status
                 )
             except Exception:
