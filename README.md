@@ -49,7 +49,7 @@
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 - ɪғ ʏᴏᴜ'ʀᴇ ʜᴀᴠɪɴɢ ᴀɴʏ ɪssᴜᴇs ɪɴ ᴀɴʏ ᴏғ ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs, ᴘʟᴇᴀsᴇ sʜᴀʀᴇ ɪᴛ ᴡɪᴛʜ ᴜs
-- 
+
 ━━━━━━━━━━━━━━━━━━━━
 
 
