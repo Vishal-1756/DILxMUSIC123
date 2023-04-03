@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic`
+`git clone https://github.com/stkeditz/DILxMUSIC123 && cd DILxMUSIC123`
 - ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : cd (jese DilMusic) jo name rakhte h
 - ʏᴏᴜ'ᴠᴇ ᴛᴏ ʙᴀsʜ ᴛʜᴇ sᴇᴛᴜᴘ ғɪʟᴇ ʙʏ : bash setup (ɪᴛ'ʟʟ ᴀsᴋ ʏᴏᴜ ᴛᴏ ғɪʟʟ ᴛʜᴇ ᴇɴᴠ ᴛʜᴇʀᴇ)
 - Install tmux to keep running your bot when you close the terminal by :
