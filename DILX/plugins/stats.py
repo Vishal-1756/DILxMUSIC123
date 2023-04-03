@@ -21,7 +21,7 @@ from DILX.utils.database import (get_global_tops,
                                        get_served_chats,
                                        get_served_users, get_sudoers,
                                        get_top_chats, get_topp_users)
-from DIL.utils.decorators.language import language, languageCB
+from DILX.utils.decorators.language import language, languageCB
 from DILX.utils.inline.stats import (back_stats_buttons,
                                            back_stats_markup,
                                            get_stats_markup,
