@@ -60,7 +60,7 @@ async def auto_end():
                     continue
                 autoend[chat_id] = {}
                 try:
-                    await Anon.stop_stream(chat_id)
+                    await DIL.stop_stream(chat_id)
                 except:
                     continue
                 try:
