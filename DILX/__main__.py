@@ -67,7 +67,7 @@ async def init():
     except:
         pass
     await DIL.decorators()
-    LOGGER("DILX").info("DILXmusic")
+    LOGGER("DILX").info("DILXMUSIC")
     await idle()
 
 
