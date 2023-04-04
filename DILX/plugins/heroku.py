@@ -47,7 +47,7 @@ async def log_(client, message, _):
             if HAPP is None:
                 return await message.reply_text(_["heroku_1"])
             data = HAPP.get_log()
-            link = await Anonbin(data)
+            link = await DILbin(data)
             return await message.reply_text(link)
         else:
             if os.path.exists(config.LOG_FILE_NAME):
@@ -60,7 +60,7 @@ async def log_(client, message, _):
                     NUMB = 100
                 for x in lines[-NUMB:]:
                     data += x
-                link = await Anonbin(data)
+                link = await DILbin(data)
                 return await message.reply_text(link)
             else:
                 return await message.reply_text(_["heroku_2"])
