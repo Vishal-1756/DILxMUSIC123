@@ -151,9 +151,7 @@ async def start_comm(client, message: Message, _):
 📎 **ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ:** [ᴠɪsɪᴛ ᴄʜᴀɴɴᴇʟ]({channellink})
 🔗 **ʟɪɴᴋ:** [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})
 
-**💞🌹ᴀᴀʀᴏʜɪ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ🌹💞**
-
-|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [ᴅɪʟ❣️](https://t.me/Honey_Singh_121) 🥀 ||
+|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [EDISON](https://t.me/EDIS0N9) 🥀 ||
 
 ᴀɪᴍ[💖] sᴇᴀʀᴄʜ ᴩᴏᴡᴇʀᴇᴅ ʙʏ {config.MUSIC_BOT_NAME}"""
             key = InlineKeyboardMarkup(
@@ -163,7 +161,7 @@ async def start_comm(client, message: Message, _):
                             text="🍃•ʏᴏᴜᴛᴜʙᴇ•🍃", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="🍁•sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🍁•", url="https://t.me/LOVE_FEELINGS_WILL"
+                            text="🍁•sᴜᴩᴩᴏʀᴛ[edison]🍁•", url="https://t.me/over_prove1
                         ),
                     ],
                 ]
